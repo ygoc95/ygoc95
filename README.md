@@ -2,7 +2,7 @@
 
 <h3 align="center">A QA Engineer with test automation focus</h3>
 
-<p align="center">- 📫 You can reach me via: **ygoc95@gmail.com
+<p align="center">- 📫 You can reach me via: ygoc95@gmail.com
 </p>
 <p align="center">
   <img height="200" src="https://64.media.tumblr.com/fad394d48eef73d55dc8ca6bce407f01/tumblr_o5a5r9Z9O71tvppquo1_1280.gif">
